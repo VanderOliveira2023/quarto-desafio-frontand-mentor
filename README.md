@@ -7,7 +7,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshot-Desktop](#screenshot-desktop)
+  - - [Screenshot-mobile](#screenshot-mobile)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -15,5 +16,11 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
  ## Overview
  
-### Screenshot 
+### Screenshot-Desktop 
 ![](images/desktop.png)
+### Screenshot-mobile
+![](images/mobile.png)
+
+### Links
+-solution url:[solution url](https://prev-product.netlify.app/)
+
