@@ -26,13 +26,34 @@ This is a solution to the [Product preview card component challenge on Frontend 
 -solution url:[solution url](https://prev-product.netlify.app/)
 
 ## My process
--HTML
--CSS
--TEGS (<picture> , <source>)
--ATRIBUTOS (srcset="" , media="")
+HTML
+CSS
+TEGS (<picture> , <source>)
+ATRIBUTOS (srcset="" , media="")
 
 ## Built with
-Solução com HTML,CSS e com as tegs( <picture>,<source>) e os atributos (srcset="" , media=""), para uma resposta responsiva na troca de imagens de acordo com o tamanho da tela, uma estilização no CSS, com media query , na responsividade de 375px.
+**Solução com HTML,CSS e com as tegs( <picture>,<source>) 
+e os atributos (srcset="", media=""), para uma resposta
+responsiva na troca de imagens de acordo com o tamanho 
+da tela, uma estilização no CSS, com media query , na
+responsividade de 375px.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
